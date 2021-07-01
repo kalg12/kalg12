@@ -1,4 +1,4 @@
-<h1 align="center">Heey! 👋, Soy Kevin LG</h1>
+<h1 align="center">Heey! 👋, soy Kevin LG</h1>
 <h3 align="center">Conctáctame en: luciano19940@hotmail.com</h3>
 
 <h3 align="center">Conecta conmigo en Twitter</h3>
