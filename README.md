@@ -13,6 +13,6 @@
 </div>
 
 <div align="center">
-<img src='https://angular.io/assets/images/logos/angular/angular.svg"' alt='Angular' height='40'>
+<img src='https://angular.io/assets/images/logos/angular/angular.svg' alt='Angular' height='40'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='WordPress' height='40'>
 </div>
