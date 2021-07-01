@@ -1,7 +1,7 @@
 <h1 align="center">Heey! soy Kevin LG <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center">Conctáctame en: luciano19940@hotmail.com</h3>
 
-<h3 align="center">Conecta conmigo en Twitter</h3>
+<h3 align="center">Conecta conmigo en Twitter <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 30px> </h3>
 <p align="center">
 <a href="https://twitter.com/kelg_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kelg_10" height="30" width="40" /></a>
 </p>
