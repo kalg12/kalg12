@@ -7,6 +7,7 @@
 </p>
 
 
-<div align=”center”>
+<div align="center">
 ![](http://4.bp.blogspot.com/-YseUoftHKQA/VLXRjVR7e5I/AAAAAAAAN18/6pB8E_Ta8_I/s1600/juego-google-chrome-offline.gif)
+<p>Perfectly balanced</p>
 </div>
