@@ -12,12 +12,4 @@
 <h2>Perfectamente balanceado</h2>
 </div>
 
-
-<h3 align="left">Conecta conmigo en Twitter</h3>
-<p align="left">
-<a href="[https://twitter.com/kelg_10](https://twitter.com/kelg_10)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)" alt="kelg_10" height="30" width="40" /></a>
-</p>
-
-
-
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>
