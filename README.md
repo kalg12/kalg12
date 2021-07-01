@@ -11,3 +11,6 @@
 <div align="center">
 <h2>Perfectamente balanceado</h2>
 </div>
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>](wdwdwd)  
