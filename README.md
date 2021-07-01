@@ -9,7 +9,9 @@
 
 ![](http://4.bp.blogspot.com/-YseUoftHKQA/VLXRjVR7e5I/AAAAAAAAN18/6pB8E_Ta8_I/s1600/juego-google-chrome-offline.gif)
 <div align="center">
-<h2>Perfectamente balanceado</h2>
+<h2>Lenguages y Herramientas</h2>
 </div>
 
+<div align="center">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>
+</div>
