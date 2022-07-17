@@ -1,4 +1,4 @@
-<h1 align="center">Heey! soy Kevin LG <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> </h1>
+<h1 align="center">Heey! soy Kevin LG <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <h3 align="center">Conctáctame en: luciano19940@hotmail.com</h3>
 
 <h3 align="center">Conecta conmigo en Twitter <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 60px> </h3>
