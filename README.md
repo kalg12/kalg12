@@ -23,7 +23,7 @@
 <hr>
 <div align='center'>
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kalg12)  
+  ![GitHub Activity Graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalg12&bg_color=ffffff&color=7d2c77&line=00ccc9&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))  
 
   ![Profile views](https://gpvc.arturio.dev/kalg12)  
 </div>
