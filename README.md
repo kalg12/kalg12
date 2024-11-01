@@ -1,28 +1,47 @@
-<h1 align="center">¡Heey! soy Kevin Luciano <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
-<h3 align="center">Conctáctame en: luciano19940@hotmail.com</h3>
-
-<h3 align="center">Conecta conmigo en Twitter <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 60px> </h3>
 <p align="center">
-<a href="https://twitter.com/kelg_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kelg_10" height="30" width="40" /></a>
+  <img alt="Kevin Luciano - Web Developer" src="https://raw.githubusercontent.com/kalg12/kalg12/refs/heads/main/KevinLucianoWebDeveloper.png">
 </p>
 
-![](http://4.bp.blogspot.com/-YseUoftHKQA/VLXRjVR7e5I/AAAAAAAAN18/6pB8E_Ta8_I/s1600/juego-google-chrome-offline.gif)
+<h1 align="center">Hey! I am Kevin Luciano <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
 
 <div align="center">
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+### 👨🏼‍💻 &nbsp;About Me
 
-   <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,react,php,wordpress,mysql,mongodb,firebase,c,git,github,docker,heroku,vscode" />
+💻 I'm a software engineer, full-stack web developer, and a coach in technology and programming.
+
+<br/>
+
+### &nbsp;Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kalg12/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Kevin Luciano LinkedIn Profile" />
   </a>
-  </p>
-  
-</div>
-<hr>
-<div align='center'>
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalg12&bg_color=ffffff&color=7d2c77&line=00ccc9&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    <a href="mailto:luciano19940@hotmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Kevin Luciano Mail" />
+  </a>
+</p>
 
-  ![Profile views](https://gpvc.arturio.dev/kalg12)  
+<br/>
+
+<h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,typescript,js,nodejs,express,react,nextjs,astro,php,wordpress,mysql,mongodb,firebase,c,py,java,prisma,git,github,docker,vscode" />
+  </a>
+</p>
+
+<br/>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/sergiecode">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kalg12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kalg12&layout=compact&langs_count=8&theme=algolia">
+  </a>
+</p>
+
 </div>
