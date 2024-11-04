@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,typescript,js,nodejs,express,react,nextjs,vue,astro,php,wordpress,mysql,mongodb,firebase,c,py,java,prisma,git,github,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,typescript,js,nodejs,express,react,nextjs,redux,vue,astro,php,wordpress,mysql,mongodb,firebase,c,py,java,prisma,git,github,docker,vscode,postman,vercel,netlify," />
   </a>
 </p>
 
@@ -43,5 +43,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kalg12&layout=compact&langs_count=8&theme=algolia">
   </a>
 </p>
+
 
 </div>
