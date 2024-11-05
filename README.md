@@ -44,5 +44,13 @@
   </a>
 </p>
 
+### 👨‍💻 &nbsp;I have a blog
+<p align="center">
+  <a href="https://kalg12.hashnode.dev">
+    Follow my last posts
+  </a>
+</p>
+
+
 
 </div>
