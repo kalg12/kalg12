@@ -46,9 +46,10 @@
 
 ### 👨‍💻 &nbsp;I have a blog
 <p align="center">
+  <h3>
   <a href="https://kalg12.hashnode.dev">
     Follow my last posts
-  </a>
+  </a></h3>
 </p>
 
 
