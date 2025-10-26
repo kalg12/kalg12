@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,typescript,js,nodejs,express,react,nextjs,redux,vue,astro,php,wordpress,mysql,mongodb,firebase,c,py,java,prisma,git,github,docker,vscode,postman,vercel,netlify,flask" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,typescript,js,nodejs,express,react,nextjs,redux,vue,astro,php,wordpress,mysql,mongodb,firebase,c,py,java,prisma,git,github,docker,vscode,postman,vercel,netlify,flask,hono,docusaurus" />
   </a>
 </p>
 
